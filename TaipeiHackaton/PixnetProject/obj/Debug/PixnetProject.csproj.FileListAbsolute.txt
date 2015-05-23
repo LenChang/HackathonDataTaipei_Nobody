@@ -1,0 +1,27 @@
+D:\C# project\Practice\C# 4.0 book practice\PixnetProject\PixnetProject\bin\Debug\PixnetProject.exe.config
+D:\C# project\Practice\C# 4.0 book practice\PixnetProject\PixnetProject\obj\Debug\PixnetProject.csprojResolveAssemblyReference.cache
+D:\C# project\Practice\C# 4.0 book practice\PixnetProject\PixnetProject\bin\Debug\PixnetProject.exe
+D:\C# project\Practice\C# 4.0 book practice\PixnetProject\PixnetProject\bin\Debug\PixnetProject.pdb
+D:\C# project\Practice\C# 4.0 book practice\PixnetProject\PixnetProject\bin\Debug\Newtonsoft.Json.dll
+D:\C# project\Practice\C# 4.0 book practice\PixnetProject\PixnetProject\bin\Debug\Newtonsoft.Json.xml
+D:\C# project\Practice\C# 4.0 book practice\PixnetProject\PixnetProject\obj\Debug\PixnetProject.exe
+D:\C# project\Practice\C# 4.0 book practice\PixnetProject\PixnetProject\obj\Debug\PixnetProject.pdb
+D:\C# project\PixnetProject\PixnetProject\bin\Debug\PixnetProject.exe.config
+D:\C# project\PixnetProject\PixnetProject\obj\Debug\PixnetProject.exe
+D:\C# project\PixnetProject\PixnetProject\obj\Debug\PixnetProject.pdb
+D:\C# project\PixnetProject\PixnetProject\obj\Debug\PixnetProject.csprojResolveAssemblyReference.cache
+D:\C# project\PixnetProject\PixnetProject\bin\Debug\PixnetProject.exe
+D:\C# project\PixnetProject\PixnetProject\bin\Debug\PixnetProject.pdb
+D:\C# project\PixnetProject\PixnetProject\bin\Debug\Newtonsoft.Json.dll
+D:\C# project\PixnetProject\PixnetProject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\TaipeiHackaton\PixnetProject\bin\Debug\PixnetProject.exe.config
+C:\Users\User\Desktop\TaipeiHackaton\PixnetProject\obj\Debug\PixnetProject.exe
+C:\Users\User\Desktop\TaipeiHackaton\PixnetProject\obj\Debug\PixnetProject.pdb
+C:\Users\user\Desktop\TaipeiHackaton\TaipeiHackaton\PixnetProject\bin\Debug\PixnetProject.exe.config
+C:\Users\user\Desktop\TaipeiHackaton\TaipeiHackaton\PixnetProject\obj\Debug\PixnetProject.exe
+C:\Users\user\Desktop\TaipeiHackaton\TaipeiHackaton\PixnetProject\obj\Debug\PixnetProject.pdb
+C:\Users\user\Desktop\TaipeiHackaton\TaipeiHackaton\PixnetProject\bin\Debug\PixnetProject.exe
+C:\Users\user\Desktop\TaipeiHackaton\TaipeiHackaton\PixnetProject\bin\Debug\PixnetProject.pdb
+C:\Users\user\Desktop\TaipeiHackaton\TaipeiHackaton\PixnetProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\TaipeiHackaton\TaipeiHackaton\PixnetProject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\TaipeiHackaton\TaipeiHackaton\PixnetProject\obj\Debug\PixnetProject.csprojResolveAssemblyReference.cache
